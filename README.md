@@ -1,0 +1,1 @@
+# cognifyz-image-manipulation
